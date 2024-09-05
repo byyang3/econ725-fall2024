@@ -9,6 +9,11 @@
 * **Meeting day/time**: T,Th 8:30-9:45am, RICH BUILDING 311
 * Office hours available via Zoom (See Canvas for info)
 
+
+
+
+
+
 ## Course description ##
 
 This course focuses on programming and data management, with an emphasis on building skills
