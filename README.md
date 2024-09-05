@@ -6,7 +6,7 @@
 | Office Hours | F 9:30-10:30am |
 | GitHub | [marcelortizv](https://github.com/marcelortizv) |
 
-* **Meeting day/time**: T,Th 8:30-9:45am, Rich, Room 211
+* **Meeting day/time**: T,Th 8:30-9:45am, RICH BUILDING
 * Office hours available via Zoom (See Canvas for info)
 
 ## Course description ##
